@@ -29,3 +29,26 @@ Utility to merge INI-format files
 %files
 %_bindir/*
 
+
+
+%changelog
+* Thu Jan 12 2012 Александр Казанцев <kazancas@mandriva.org> 1.91.0-1
++ Revision: 760276
+- imported package qmergeinifiles
+
+
+* Thu Jan 12 2012 Alexander Kazancev <kazancas@mandriva.org> 1.91.0-mdv1
+- import to Mandriva
+
+* Thu Oct 27 2011 Sergey V Turchin <zerg@altlinux.org> 1.91.0-alt1
+- create General section only if exists according settings
+
+* Wed Oct 26 2011 Sergey V Turchin <zerg@altlinux.org> 1.90.0-alt1
+- rewrite to merge without recoding text
+
+* Tue Jan 26 2010 Sergey V Turchin <zerg@altlinux.org> 1.0.0-alt1
+- fix compile with new Qt
+
+* Fri Nov 09 2007 Sergey V Turchin <zerg at altlinux dot org> 0.0.1-alt1
+- initial specfile
+
