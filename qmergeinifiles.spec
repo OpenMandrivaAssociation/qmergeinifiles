@@ -1,6 +1,6 @@
 Name: qmergeinifiles
 Version: 1.91.0
-Release: 1
+Release: 2
 
 Summary: Utility to merge INI-format files
 Group: Development/Other
