@@ -10,6 +10,7 @@ Requires: qt4-common
 
 Source: %name-%version.tar
 
+BuildRequires:	make
 BuildRequires: gcc-c++ libqt4-devel libstdc++-devel
 
 %description
